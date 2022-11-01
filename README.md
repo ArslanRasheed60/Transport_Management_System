@@ -6,9 +6,9 @@ Transport Management System with basic functionalities like
 > Add/remove customers
 > Add services etc
 
-#Implemented On
+# Implemented On
 C++ 
 Object Oriented Programming
 
-#How to run
+# How to run
 Simple download or clone it and run it.
